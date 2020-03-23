@@ -1,0 +1,9 @@
+D:\Projects\Code\THE NEW FLASH\mppm1\mppm1\bin\Debug\mppm1.exe.config
+D:\Projects\Code\THE NEW FLASH\mppm1\mppm1\bin\Debug\mppm1.exe
+D:\Projects\Code\THE NEW FLASH\mppm1\mppm1\bin\Debug\mppm1.pdb
+D:\Projects\Code\THE NEW FLASH\mppm1\mppm1\obj\Debug\mppm1.csprojAssemblyReference.cache
+D:\Projects\Code\THE NEW FLASH\mppm1\mppm1\obj\Debug\mppm1.exe
+D:\Projects\Code\THE NEW FLASH\mppm1\mppm1\obj\Debug\mppm1.pdb
+D:\Projects\Code\THE NEW FLASH\mppm1\mppm1\bin\Debug\FFmpeg.NET.dll
+D:\Projects\Code\THE NEW FLASH\mppm1\mppm1\obj\Debug\mppm1.csproj.CopyComplete
+D:\Projects\Code\THE NEW FLASH\mppm1\mppm1\bin\Debug\ffmpeg.exe
