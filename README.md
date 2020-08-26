@@ -1,5 +1,5 @@
 # MP±1
-Quickly convert between media formats
+Quickly convert between media formats (eg, mp3 to mp4 etc)
 
 # How to use
 There is a mappings.txt file, you can *map* one file type to another. When converting, it will look for the file type in the mappings and automatically convert to the specified type.
